@@ -28,6 +28,6 @@
 - **Disciplina:** UX/UI Design
 - **Aluno:** João Carlos Viana Teixeira
 - **Docente:** Ketyllen da Costa Silva 
-- **Data da Aula:** 04 de Agosto de 2025  
+- **Data da Aula:** 07 de Agosto de 2025  
 
 _Repositório criado com o intuito de registrar a execução da atividade._  
