@@ -1,6 +1,5 @@
 **Atividade:** 
-1. Escolha uma experiência real ruim
-Pense em algo que você usou ou vivenciou recentemente que foi frustrante. Pode ser: 
+1. Escolha uma experiência real ruim. Pense em algo que você usou ou vivenciou recentemente que foi frustrante. Pode ser: 
 - Usar uma máquina de cartão
 - Fazer um cadastro online 
 - Pegar um ônibus 
